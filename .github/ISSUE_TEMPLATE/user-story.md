@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**Ben bir** [rol]  
- **İhtiyacım var** [fonksiyon]  
- **Böylece** [fayda]  
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
- ### Ayrıntılar ve Varsayımlar
- * [bildiklerinizi belgeleyin]
+ ### Details and Assumptions
+ * [document what you know]
    
- ### Kabul Kriterleri  
+ ### Acceptance Criteria  
    
  ```gherkin
- Verilen [bazı bağlam]
- Ne zaman [belirli bir eylem gerçekleştirilirse]
- O zaman [eylemin sonucu gözlemlenir]
+Given [some context]
+When [a specific action is performed]
+Then [the outcome of the action is observed] 
  ```
